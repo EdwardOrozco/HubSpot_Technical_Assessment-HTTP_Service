@@ -96,7 +96,9 @@ Ensure you have the following installed:
 
    ```env
    PORT=3000
-   HUBSPOT_API_KEY=your_hubspot_api_key
+   HS_ACCESS_TOKEN_01=your_hubspot_api_key
+   HS_ACCESS_TOKEN_02=your_hubspot_api_key
+   HS_ACCESS_TOKEN_03=your_hubspot_api_key
    ```
 
 2. Replace `your_hubspot_api_key` with a valid HubSpot API key.
